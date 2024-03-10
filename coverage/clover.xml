@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710031239401" clover="3.2.0">
-  <project timestamp="1710031239401" name="All files">
+<coverage generated="1710032780155" clover="3.2.0">
+  <project timestamp="1710032780155" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1" elements="18" coveredelements="18" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="game.js" path="C:\Users\Динислам\OneDrive\Рабочий стол\Л\ДЗ современный JS\homework-ci\src\game.js">
       <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
